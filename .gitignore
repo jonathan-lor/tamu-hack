@@ -1,0 +1,7 @@
+*
+*/
+
+#unignore what we want to track
+!*.json
+!*.py
+!.gitignore 
